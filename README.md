@@ -1,5 +1,5 @@
 # any scripts
-**tags:** shell, python
+**tags:** shell, terminal, bash, sh, python
 
 **example how use:** (start python's static web server)
 ```
