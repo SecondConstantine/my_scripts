@@ -1,5 +1,0 @@
-#!/bin/bash
-sudo mii-tool -F 100baseTx-FD eth0
-sudo ethtool -s eth0 speed 10 duplex half
-echo "Ethernet will be fixed."
-read -p "Press any key to continue... "
